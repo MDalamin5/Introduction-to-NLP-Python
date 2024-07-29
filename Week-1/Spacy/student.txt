@@ -1,7 +1,0 @@
-Shihsukali Model High School
-Name	Birthday	Email
-Al Amin	25/12/1993	alamin@gmail.com
-Sarah Johnson	10/08/2002	sarah.johnson@xyz.com
-Robert Smith	05/04/2001	robert.smith@email.com
-Emily White	15/11/2004	emily.white@abc.edu
-Michael Brown	20/03/2003	michael.brown@yahoo.com
